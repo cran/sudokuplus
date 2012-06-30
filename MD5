@@ -1,0 +1,8 @@
+ea11e64abaae4c86c6d8edfec299fea8 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+62679df8193877a64d582ba3d061ee55 *R/generatesudoku.R
+d44bc6f389f91e7bd971ba2128977bb8 *R/playsudoku.R
+5b6c7d6d94feb8cbfad53d88b9986de9 *R/solvesudoku.R
+60f3e5f0f05be378e66c335150eccd29 *man/generatesudoku.Rd
+6e239a1742cdf973c6e635bc6bffd785 *man/playsudoku.Rd
+a6da75f9d93d729da28fbb4c9011bcb5 *man/solvesudoku.Rd
